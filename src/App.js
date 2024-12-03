@@ -6,7 +6,7 @@ function App() {
     <div className="App">
       <header className="App-header">
 <div>Neib</div>
-<title>neib love</title>
+<title>neib love vachira</title>
 
         <p>
           Edit <code>src/App.js</code> and save to reload.
