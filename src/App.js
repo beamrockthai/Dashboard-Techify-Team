@@ -6,6 +6,7 @@ function App() {
     <div className="App">
       <header className="App-header">
 <div>Neib</div>
+<title>neib love </title>
         <p>
           Edit <code>src/App.js</code> and save to reload.
         </p>
